@@ -1,3 +1,3 @@
-# Livecoding with FoxDot
+# Livecoding
 
-Some code from my experience with FoxDot
+Some code from my experience with Supercollider
